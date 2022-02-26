@@ -184,7 +184,7 @@
         "title":"ICTFestWebsite",
         "category":"A demo website of IUT ICT Fest 2021 for SWE 4538 : Server Programming Sessional Course for BSc Engg in Software Engineering at Islamic University of Technology.",
         "technology": "NodeJS, MongoDB, EJS",
-        "image":"ICTFestWebsite.jpg",
+        "image":"Portfolio.jpg",
         "url":"https://github.com/mohtasimhadi/ICTFestWebsite"
       },
       {
@@ -198,7 +198,7 @@
         "title":"Forum Frontend",
         "category":"A frontend solution of a forum website",
         "technology": "ReactJS",
-        "image":"forumFrontend.jpg",
+        "image":"Portfolio.jpg",
         "url":"https://github.com/mohtasimhadi/forumFrontend"
       },
       {
@@ -212,21 +212,21 @@
         "title":"kishanEcommFrontend",
         "category":"An ecommece web application for agricultural products.",
         "technology": "ReactJS",
-        "image":"kishanEcommFrontend.jpg",
+        "image":"Portfolio.jpg",
         "url":"https://github.com/mohtasimhadi/kishanEcommFrontend"
       },
       {
         "title":"HaateKhori",
         "category":"An ai based web learning platform for children.",
         "technology": "Django",
-        "image":"HaateKhori.jpg",
+        "image":"Portfolio.jpg",
         "url":"https://github.com/mohtasimhadi/HaateKhori"
       },
       {
         "title":"ERRS Hospital Management System",
         "category":"A basic Hospital Management Solution",
         "technology": "Django, MySQL",
-        "image":"ERRSHospitalManagementSystem.jpg",
+        "image":"Portfolio.jpg",
         "url":"https://github.com/mohtasimhadi/ERRSHospitalManagementSystem"
       },
       {
