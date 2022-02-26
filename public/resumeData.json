@@ -67,6 +67,21 @@
         "name":"National Mobile Application Development Awareness & Capacity Building Program",
         "info": "Successfully completed a five day long training course on mobile application development organized by Ministry of Information & Communication Technology",
         "year":"2014"
+      },
+      {
+        "name":"Introduction to Data Science in Python",
+        "info": "Successfully completed an online non-credit course authorized by University of Michigan and offered through Coursera.",
+        "year":"2020"
+      },
+      {
+        "name":"Neural Networks and Deep Learning",
+        "info": "Successfully completed an online non-credit course authorized by DeepLearning.AI and offered through Coursera.",
+        "year":"2020"
+      },
+      {
+        "name":"Cybersecurity and Internet of Things",
+        "info": "Successfully completed an online non-credit course authorized by University System of Georgia and offered through Coursera.",
+        "year":"2020"
       }
     ],
     "coCurricular":[
