@@ -84,16 +84,13 @@ class Resume extends Component {
       );
     });
 
-    const reference = this.props.data.reference.map(function (
-      reference
-    ) {
+    const reference = this.props.data.reference.map(function (reference) {
       return (
         <div key={reference.name}>
           <h3>{reference.name}</h3>
-          <p className="info">
-            <em className="date">{reference.designition}</em>
-          </p>
-          <p>{reference.contact}</p>
+          <p className="info">{reference.designition}</p>
+          <p>{reference.email}</p>
+          <p>{reference.phone}</p>
         </div>
       );
     });

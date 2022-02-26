@@ -38,8 +38,8 @@
       {
         "school":"Islamic University of Technology",
         "degree":"BSc Engg. in Software Engineering",
-        "graduated":"2019-Current",
-        "description":""
+        "graduated":"2019 - Present",
+        "description":"Right now I am on my 6th semester. Two more semesters to go before I graduate."
       },
       {
         "school":"Govt. Ashek Mahmud College",
@@ -64,31 +64,45 @@
     ],
     "achievements":[
       {
-        "name":"Islamic University of Technology",
-        "info": "ha ja ba ra la",
-        "year":"BSc Engg. in Software Engineering",
-        "description":""
+        "name":"National Mobile Application Development Awareness & Capacity Building Program",
+        "info": "Successfully completed a five day long training course on mobile application development organized by Ministry of Information & Communication Technology",
+        "year":"2014"
       }
     ],
     "coCurricular":[
       {
-        "name":"Islamic University of Technology",
-        "year":"BSc Engg. in Software Engineering",
-        "description":""
+        "name":"38th National Science and Technology Week - 2017",
+        "description": "First position at Scheduled Speech"
+      },
+      {
+        "name":"Regional National High School Programming Contest - 2016",
+        "description": "Winner"
+      },
+      {
+        "name":"i-gen - 2015",
+        "description": "Winner at School and District Level"
       }
     ],
     "extraCurricular":[
       {
-        "name":"Islamic University of Technology",
-        "year":"BSc Engg. in Software Engineering",
-        "description":""
+        "name":"Central Training Exercise, 2014 - Bangladesh National Cadet Corps",
+        "description":"Completed a two week long paramilitary training successfully."
+      },
+      {
+        "name":"Annual Training Exercise, 2014 - Bangladesh National Cadet Corps",
+        "description":"Completed a two week long paramilitary training successfully."
+      },
+      {
+        "name":"Capsul Training Exercise, 2014 - Bangladesh National Cadet Corps",
+        "description":"Completed a one week long paramilitary training successfully."
       }
     ],
     "reference":[
       {
-        "name":"Islamic University of Technology",
-        "designition":"BSc Engg. in Software Engineering",
-        "contact":""
+        "name":"Sabbir Ahmed",
+        "designition":"Lecturer, Department of CSE, Islamic University of Technology",
+        "email":"sabbirahmed@iut-dhaka.edu",
+        "phone": "+8801754221481"
       }
     ],
     "languages": [
