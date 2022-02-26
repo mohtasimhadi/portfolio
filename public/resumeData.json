@@ -174,76 +174,67 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Portfolio",
+        "category":"My portfolio developed with ReactJS",
+        "technology": "ReactJS",
+        "image":"Portfolio.jpg",
+        "url":"https://github.com/mohtasimhadi/portfolio"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"ICTFestWebsite",
+        "category":"A demo website of IUT ICT Fest 2021 for SWE 4538 : Server Programming Sessional Course for BSc Engg in Software Engineering at Islamic University of Technology.",
+        "technology": "NodeJS, MongoDB, EJS",
+        "image":"ICTFestWebsite.jpg",
+        "url":"https://github.com/mohtasimhadi/ICTFestWebsite"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Forum Backend",
+        "category":"A backend severside solution of a forum website",
+        "technology": "NodeJS, MongoDB, Firebase",
+        "image":"forumBackend.jpg",
+        "url":"https://github.com/mohtasimhadi/forumBackend"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Forum Frontend",
+        "category":"A frontend solution of a forum website",
+        "technology": "ReactJS",
+        "image":"forumFrontend.jpg",
+        "url":"https://github.com/mohtasimhadi/forumFrontend"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"DesignPattern",
+        "category":"Implemented various design patterns for test and learning. Created with documentation.",
+        "technology": "TypeScript",
+        "image":"DesignPattern.jpg",
+        "url":"https://github.com/mohtasimhadi/DesignPattern"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"kishanEcommFrontend",
+        "category":"An ecommece web application for agricultural products.",
+        "technology": "ReactJS",
+        "image":"kishanEcommFrontend.jpg",
+        "url":"https://github.com/mohtasimhadi/kishanEcommFrontend"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"HaateKhori",
+        "category":"An ai based web learning platform for children.",
+        "technology": "Django",
+        "image":"HaateKhori.jpg",
+        "url":"https://github.com/mohtasimhadi/HaateKhori"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"ERRS Hospital Management System",
+        "category":"A basic Hospital Management Solution",
+        "technology": "Django, MySQL",
+        "image":"ERRSHospitalManagementSystem.jpg",
+        "url":"https://github.com/mohtasimhadi/ERRSHospitalManagementSystem"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Tic Tac Toe",
+        "category":"A basic two user tic tac toe web application game.",
+        "image":"tic-tac-toe.jpg",
+        "technology": "React, TypeScript",
+        "url":"https://github.com/mohtasimhadi/tic-tac-toe"
       }
     ]
   }
